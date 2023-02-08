@@ -6,3 +6,5 @@ elif(someNumber > 0):
     print("Bellow zerro")
 else:
     print("zerro")
+print("test2")
+print("test2")
